@@ -11,5 +11,23 @@ public class newc {
          System.out.println("print");
          System.out.println("print");
          System.out.println("print");
+
+        
+        System.out.println("print");
+         System.out.println("print");
+         System.out.println("print");
+         System.out.println("print");
+         System.out.println("print");
+         System.out.println("print");
+         System.out.println("print");
+
+        
+        System.out.println("print");
+         System.out.println("print");
+         System.out.println("print");
+         System.out.println("print");
+         System.out.println("print");
+         System.out.println("print");
+         System.out.println("print");
     }
 }
